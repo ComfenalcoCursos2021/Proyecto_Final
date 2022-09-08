@@ -1,0 +1,139 @@
+{
+    "logo": {
+        "Portaf-olio": "#"
+    },
+    "menu": {
+        "Inicio": "#home",
+        "Sobre mi": "#about",
+        "Servicios": "#services",
+        "Tecnologias": "#skills",
+        "Grupo": "#teams",
+        "Contacto": "#contact"
+    },
+    "seccion-inicio": {
+        "saludo": "¡Hola!, mi nombre es",
+        "presentacion": "Miguel Angel Castro Escamilla",
+        "soy un": ["Desarrollador", "Diseñador", "Persona de libre dedicación"],
+        "Trabaja Conmigo": "#"
+    },
+    "Seccion-sobre-mi": {
+        "tituloSobreMi": "sobre mi",
+        "subtituloSobreMi": "quien soy",
+        "soy Jorge": ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
+        "parrafo": "Una breve descripción sobre mi ",
+        "boton-cv": {
+            "descargar cv": "#"
+        }
+    },
+    "seccion-servicios": {
+        "tituloServicios": "servicios",
+        "subtituloServicios": "te ofrezco",
+        "card": [
+            {
+                "iconoDiseño": "svg file-code",
+                "tituloDiseño": "diseño web",
+                "parrafoDiseño": "Una breve descripción del servicio diseño web"
+            },
+            {
+                "iconoPublicidad": "svg bullhorn",
+                "tituloPublicidad": "publicidad",
+                "parrafoPublicidad": "Una breve descripción del servicio publicidad"
+            },
+            {
+                "iconoAplicativos": "svg laptop-code",
+                "tituloAplicativos": "aplicativos web",
+                "parrafoAplicativos": "Una breve descripción del servicio aplicativos web"
+            }
+        ]
+    },
+    "seccion-tecnologias": [
+        {
+            "tituloTecnologia": "software"
+        },
+        {
+            "subtituloTecnologias": "Tecnologias"
+        },
+        {
+            "tituloHerramientas": "herramientas que uso y conocimiento de ellas."
+        },
+        {
+            "parrafoHerramientas": "Una breve descripción de las herramientas que uso"
+        },
+        {
+            "boton-herramientas": {
+                "leer mas": "#"
+            }
+        },
+        {
+            "bars": {
+                "html": "80%",
+                "css": "60%",
+                "php": "30%",
+                "javascript": "20%",
+                "ilustrator": "90%",
+                "photoshop": "80%",
+                "after-effects": "40%"
+            }
+        }
+    ],
+    "seccion-grupo": {
+        "tituloGrupo": "grupo",
+        "subtituloGrupo": "de trabajo",
+        "card-team": [
+            {
+                "textoName": "Miguel Angel",
+                "parrafoName": "descripción "
+            },
+            {
+                "textoName": "Someone name",
+                "parrafoName": "descripción "
+            },
+            {
+                "textoName": "Someone name",
+                "parrafoName": "descripción "
+            },
+            {
+                "textoName": "Someone name",
+                "parrafoName": "descripción "
+            },
+            {
+                "textoName": "Someone name",
+                "parrafoName": "descripción"
+            }
+        ]
+    },
+    "seccion-contacto": {
+        "tituloContacto": "información",
+        "subtituContacto": "de contacto",
+        "tituloUbicacion": "para más información escríbenos.",
+        "parrafoUbicacion": "descripción de ubicacion",
+        "info-contacto": [
+            {
+                "ico-name": "user-group",
+                "name": "jorge a. silva"
+            },
+            {
+                "ico-ubicacion": "location-dot",
+                "ubicacion": "Bucaramanga | Colombia"
+            },
+            {
+                "ico-mail": "fa-envelope",
+                "correo": "jorgesilvacreativo@gmail.com"
+            }
+        ],
+        "form": {
+            "tituloForm": "contactame",
+            "input-text": "tu nombre",
+            "input-email": "tu correo",
+            "input-text-asunto": "asunto",
+            "input-texarea": "mensaje",
+            "button": "enviar mensaje"
+        }
+    },
+    "footer": {
+        "texto-footer": "desarrollado por",
+        "Miguel Angel": "#about",
+        "icono-footer": "pen-nib",
+        "cargo": "Diseñador grafico y desarrollador web"
+    }
+}
