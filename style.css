@@ -371,21 +371,11 @@ section .title::after{
     top: 0;
     background: var(--color-principal);
 }
-.skills-content .right .html::before{
-    width: 90%;
+.line::before{
+    width: var(--skills);
 }
-.skills-content .right .css::before{
-    width: 60%;
-}
-.skills-content .right .js::before{
-    width: 80%;
-}
-.skills-content .right .php::before{
-    width: 50%;
-}
-.skills-content .right .mysql::before{
-    width: 70%;
-}
+
+
 
 /* teams section styling */
 
